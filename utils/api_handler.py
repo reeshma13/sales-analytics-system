@@ -19,7 +19,7 @@ def fetch_all_products():
         ...
     ]
     """
-    url = "https://dummyjson.com/products?limit=100"
+    url = "https://dummyjson.com/products?limit=200"
     try:
         response = requests.get(url, timeout=10)
         response.raise_for_status()
