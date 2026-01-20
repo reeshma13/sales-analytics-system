@@ -29,16 +29,17 @@ sales-analytics-system/
 ## Setup Instructions
 
 1. Clone or download the project folder
-
-https://github.com/reeshma13/sales-analytics-system
+   
+  ```http
+  https://github.com/reeshma13/sales-analytics-system
+  ```
 
 2. Install Python 3.9+
 3. Install required packages:
  
- 
-    ```bash
-    pip install requests
-    ```
+  ```python
+  pip install requests
+  ```
     
 4. Ensure folder structure exists:
     - data/ --> contains sales_data.txt
@@ -48,9 +49,9 @@ https://github.com/reeshma13/sales-analytics-system
 
 Run the main script from the project root:
 
-    ```bash
-    python main.py
-    ```
+  ```python
+  python main.py
+  ```
 
 This will:
 1. Read and validate sales data.
