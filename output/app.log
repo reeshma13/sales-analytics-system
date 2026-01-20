@@ -87,3 +87,34 @@
 2026-01-20 23:33:40,653 - INFO - Step 8: Save enriched data
 2026-01-20 23:33:40,655 - INFO - Step 9: Generate report
 2026-01-20 23:33:40,665 - INFO - Step 10: Complete
+2026-01-20 23:47:17,725 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-01-20 23:47:53,169 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-01-20 23:47:54,742 - DEBUG - https://dummyjson.com:443 "GET /products?limit=0 HTTP/1.1" 200 None
+2026-01-20 23:50:37,310 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-01-20 23:50:37,636 - DEBUG - https://dummyjson.com:443 "GET /products HTTP/1.1" 200 None
+2026-01-20 23:50:37,659 - INFO - Step 1: Reading sales data
+2026-01-20 23:50:37,664 - INFO - Step 2: Parsing and cleaning
+2026-01-20 23:50:37,666 - INFO - Step 3: Filter options
+2026-01-20 23:50:39,495 - INFO - Step 4: Validation
+2026-01-20 23:50:39,496 - INFO - Step 5: Analysis
+2026-01-20 23:50:39,500 - INFO - Step 6: Fetch API products
+2026-01-20 23:50:39,504 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-01-20 23:50:39,750 - DEBUG - https://dummyjson.com:443 "GET /products HTTP/1.1" 200 None
+2026-01-20 23:50:39,756 - INFO - Step 7: Enrich sales data
+2026-01-20 23:50:39,759 - INFO - Step 8: Save enriched data
+2026-01-20 23:50:39,761 - INFO - Step 9: Generate report
+2026-01-20 23:50:39,766 - INFO - Step 10: Complete
+2026-01-20 23:51:45,517 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-01-20 23:51:46,815 - DEBUG - https://dummyjson.com:443 "GET /products?limit=200 HTTP/1.1" 200 None
+2026-01-20 23:51:49,030 - INFO - Step 1: Reading sales data
+2026-01-20 23:51:49,032 - INFO - Step 2: Parsing and cleaning
+2026-01-20 23:51:49,034 - INFO - Step 3: Filter options
+2026-01-20 23:51:50,742 - INFO - Step 4: Validation
+2026-01-20 23:51:50,743 - INFO - Step 5: Analysis
+2026-01-20 23:51:50,747 - INFO - Step 6: Fetch API products
+2026-01-20 23:51:50,750 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-01-20 23:51:53,937 - DEBUG - https://dummyjson.com:443 "GET /products?limit=200 HTTP/1.1" 200 None
+2026-01-20 23:52:05,770 - INFO - Step 7: Enrich sales data
+2026-01-20 23:52:05,772 - INFO - Step 8: Save enriched data
+2026-01-20 23:52:05,773 - INFO - Step 9: Generate report
+2026-01-20 23:52:05,776 - INFO - Step 10: Complete
