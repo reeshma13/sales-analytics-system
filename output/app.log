@@ -1,0 +1,89 @@
+2026-01-20 22:57:15,670 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-01-20 22:57:16,146 - DEBUG - https://dummyjson.com:443 "GET /products?limit=100 HTTP/1.1" 200 None
+2026-01-20 22:57:16,418 - INFO - Step 1: Reading sales data
+2026-01-20 22:57:16,434 - INFO - Step 2: Parsing and cleaning
+2026-01-20 22:57:16,437 - INFO - Step 3: Filter options
+2026-01-20 22:57:32,949 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-01-20 22:57:33,409 - DEBUG - https://dummyjson.com:443 "GET /products?limit=100 HTTP/1.1" 200 None
+2026-01-20 22:57:33,899 - INFO - Step 1: Reading sales data
+2026-01-20 22:57:33,900 - INFO - Step 2: Parsing and cleaning
+2026-01-20 22:57:33,900 - INFO - Step 3: Filter options
+2026-01-20 22:57:36,194 - INFO - Step 4: Validation
+2026-01-20 22:57:36,194 - INFO - Step 5: Analysis
+2026-01-20 22:57:36,194 - INFO - Step 6: Fetch API products
+2026-01-20 22:57:36,196 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-01-20 22:57:36,625 - DEBUG - https://dummyjson.com:443 "GET /products?limit=100 HTTP/1.1" 200 None
+2026-01-20 22:57:36,864 - INFO - Step 7: Enrich sales data
+2026-01-20 22:57:36,866 - INFO - Step 8: Save enriched data
+2026-01-20 22:57:36,867 - INFO - Step 9: Generate report
+2026-01-20 22:57:36,871 - INFO - Step 10: Complete
+2026-01-20 23:16:54,177 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-01-20 23:16:55,770 - DEBUG - https://dummyjson.com:443 "GET /products?limit=100 HTTP/1.1" 200 None
+2026-01-20 23:16:56,124 - INFO - Step 1: Reading sales data
+2026-01-20 23:16:56,127 - INFO - Step 2: Parsing and cleaning
+2026-01-20 23:16:56,130 - INFO - Step 3: Filter options
+2026-01-20 23:16:58,919 - INFO - Step 4: Validation
+2026-01-20 23:16:58,919 - INFO - Step 5: Analysis
+2026-01-20 23:16:58,920 - INFO - Step 6: Fetch API products
+2026-01-20 23:16:58,923 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-01-20 23:16:59,899 - DEBUG - https://dummyjson.com:443 "GET /products?limit=100 HTTP/1.1" 200 None
+2026-01-20 23:17:00,147 - INFO - Step 7: Enrich sales data
+2026-01-20 23:17:00,152 - INFO - Step 8: Save enriched data
+2026-01-20 23:17:00,154 - INFO - Step 9: Generate report
+2026-01-20 23:17:00,161 - INFO - Step 10: Complete
+2026-01-20 23:20:31,585 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-01-20 23:20:32,565 - DEBUG - https://dummyjson.com:443 "GET /products?limit=100 HTTP/1.1" 200 None
+2026-01-20 23:20:32,825 - INFO - Step 1: Reading sales data
+2026-01-20 23:20:32,829 - INFO - Step 2: Parsing and cleaning
+2026-01-20 23:20:32,829 - INFO - Step 3: Filter options
+2026-01-20 23:20:34,699 - INFO - Step 4: Validation
+2026-01-20 23:20:34,701 - INFO - Step 5: Analysis
+2026-01-20 23:20:34,702 - INFO - Step 6: Fetch API products
+2026-01-20 23:20:34,703 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-01-20 23:20:35,205 - DEBUG - https://dummyjson.com:443 "GET /products?limit=100 HTTP/1.1" 200 None
+2026-01-20 23:20:35,447 - INFO - Step 7: Enrich sales data
+2026-01-20 23:20:35,450 - INFO - Step 8: Save enriched data
+2026-01-20 23:20:35,453 - INFO - Step 9: Generate report
+2026-01-20 23:20:35,457 - INFO - Step 10: Complete
+2026-01-20 23:23:24,704 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-01-20 23:23:27,941 - DEBUG - https://dummyjson.com:443 "GET /products?limit=100 HTTP/1.1" 200 None
+2026-01-20 23:23:28,330 - INFO - Step 1: Reading sales data
+2026-01-20 23:23:28,332 - INFO - Step 2: Parsing and cleaning
+2026-01-20 23:23:28,334 - INFO - Step 3: Filter options
+2026-01-20 23:23:30,034 - INFO - Step 4: Validation
+2026-01-20 23:23:30,035 - INFO - Step 5: Analysis
+2026-01-20 23:23:30,037 - INFO - Step 6: Fetch API products
+2026-01-20 23:23:30,039 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-01-20 23:23:30,494 - DEBUG - https://dummyjson.com:443 "GET /products?limit=100 HTTP/1.1" 200 None
+2026-01-20 23:23:30,742 - INFO - Step 7: Enrich sales data
+2026-01-20 23:23:30,747 - INFO - Step 8: Save enriched data
+2026-01-20 23:23:30,748 - INFO - Step 9: Generate report
+2026-01-20 23:23:30,760 - INFO - Step 10: Complete
+2026-01-20 23:29:19,157 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-01-20 23:29:20,246 - DEBUG - https://dummyjson.com:443 "GET /products?limit=100 HTTP/1.1" 200 None
+2026-01-20 23:29:20,507 - INFO - Step 1: Reading sales data
+2026-01-20 23:29:20,515 - INFO - Step 2: Parsing and cleaning
+2026-01-20 23:29:20,520 - INFO - Step 3: Filter options
+2026-01-20 23:29:22,016 - INFO - Step 4: Validation
+2026-01-20 23:29:22,017 - INFO - Step 5: Analysis
+2026-01-20 23:29:22,018 - INFO - Step 6: Fetch API products
+2026-01-20 23:29:22,023 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-01-20 23:29:23,899 - DEBUG - https://dummyjson.com:443 "GET /products?limit=100 HTTP/1.1" 200 None
+2026-01-20 23:29:24,266 - INFO - Step 7: Enrich sales data
+2026-01-20 23:29:24,270 - INFO - Step 8: Save enriched data
+2026-01-20 23:29:24,271 - INFO - Step 9: Generate report
+2026-01-20 23:29:24,275 - INFO - Step 10: Complete
+2026-01-20 23:33:21,149 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-01-20 23:33:29,319 - DEBUG - https://dummyjson.com:443 "GET /products?limit=100 HTTP/1.1" 200 None
+2026-01-20 23:33:30,822 - INFO - Step 1: Reading sales data
+2026-01-20 23:33:30,824 - INFO - Step 2: Parsing and cleaning
+2026-01-20 23:33:30,825 - INFO - Step 3: Filter options
+2026-01-20 23:33:33,813 - INFO - Step 4: Validation
+2026-01-20 23:33:33,814 - INFO - Step 5: Analysis
+2026-01-20 23:33:33,817 - INFO - Step 6: Fetch API products
+2026-01-20 23:33:33,821 - DEBUG - Starting new HTTPS connection (1): dummyjson.com:443
+2026-01-20 23:33:39,244 - DEBUG - https://dummyjson.com:443 "GET /products?limit=100 HTTP/1.1" 200 None
+2026-01-20 23:33:40,650 - INFO - Step 7: Enrich sales data
+2026-01-20 23:33:40,653 - INFO - Step 8: Save enriched data
+2026-01-20 23:33:40,655 - INFO - Step 9: Generate report
+2026-01-20 23:33:40,665 - INFO - Step 10: Complete

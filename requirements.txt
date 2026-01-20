@@ -1,0 +1,4 @@
+# Requirements
+
+## For API integration with DummyJSON
+requests==2.31.0
