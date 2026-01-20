@@ -29,6 +29,9 @@ sales-analytics-system/
 ## Setup Instructions
 
 1. Clone or download the project folder
+
+https://github.com/reeshma13/sales-analytics-system
+
 2. Install Python 3.9+
 3. Install required packages:
  
@@ -185,7 +188,7 @@ Products not enriched:
     Valid records after cleaning: 70
     ```
 
-- Cleaned data will be saved in the **output/** folder.
+- Cleaned data will be saved in the **output/** folder. once you run the main.py
 
 
 
